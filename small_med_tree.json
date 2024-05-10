@@ -1,0 +1,88 @@
+{
+    "name": "Microbiology and Immunology",
+    "children": [
+        {
+            "name": "A20",
+            "entry": "Structures, Bacterial",
+            "children": [
+                {
+                    "name": "A20.484",
+                    "entry": "Outer Membrane, Bacterial",
+                    "children": []
+                },
+                {
+                    "name": "A20.843",
+                    "entry": "Pilus, Common",
+                    "children": []
+                },
+                {
+                    "name": "A20.186",
+                    "entry": "Capsules, Bacterial",
+                    "children": []
+                },
+                {
+                    "name": "A20.871",
+                    "entry": "Purple Membranes",
+                    "children": []
+                },
+                {
+                    "name": "A20.867",
+                    "entry": "Pilus, Sex",
+                    "children": []
+                },
+                {
+                    "name": "A20.374",
+                    "entry": "Chromatophore, Bacterial",
+                    "children": []
+                },
+                {
+                    "name": "A20.874",
+                    "entry": "Small Ribosome Subunits, Bacterial",
+                    "children": []
+                },
+                {
+                    "name": "A20.873",
+                    "entry": "Ribosome Subunits, 50S, Bacterial",
+                    "children": []
+                },
+                {
+                    "name": "A20.859",
+                    "entry": "Magnetosome",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "A19",
+            "entry": "Structures, Fungal",
+            "children": [
+                {
+                    "name": "A19.687",
+                    "entry": "Myceliums",
+                    "children": [
+                        {
+                            "name": "A19.687.400",
+                            "entry": "Hyphas",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "A19.374",
+                    "entry": "Fungal Fruiting Body",
+                    "children": []
+                },
+                {
+                    "name": "A19.800",
+                    "entry": "Sporangia",
+                    "children": []
+                },
+                {
+                    "name": "A19.530",
+                    "entry": "Fungal Capsule",
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
